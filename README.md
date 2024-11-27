@@ -17,6 +17,8 @@ For this project I analyzed a dataset from kaggle that contains information on e
 <img width="661" alt="Screenshot 2024-11-27 at 5 13 28 PM" src="https://github.com/user-attachments/assets/7a5be4d7-14a4-4c91-ad65-7d1641a2bdd8">
 <img width="381" alt="Screenshot 2024-11-27 at 5 58 07 PM" src="https://github.com/user-attachments/assets/b9a8c04a-b8da-4bbb-8155-9dc65b89605f">
 <img width="768" alt="Screenshot 2024-11-27 at 6 01 53 PM" src="https://github.com/user-attachments/assets/b772e4db-9bc6-4de8-9244-2c1b70a3fa5f">
+## 
+<img width="865" alt="Screenshot 2024-11-27 at 6 13 56 PM" src="https://github.com/user-attachments/assets/fa2499eb-24c8-42d2-b3be-b5d78f43a4af">
 
 
 
