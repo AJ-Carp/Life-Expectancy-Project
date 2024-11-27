@@ -24,6 +24,7 @@ For this project I analyzed a dataset from kaggle that contains information on e
 
 ## Grouping countries by BMI and life span
 <img width="872" alt="Screenshot 2024-11-27 at 6 40 52 PM" src="https://github.com/user-attachments/assets/7ed79aac-38cc-4892-81ee-3b5b2cad7349">
+<img width="1366" alt="Screenshot 2024-11-27 at 6 41 54 PM" src="https://github.com/user-attachments/assets/6e01dba4-13a2-4206-8e5f-a065f8affa63">
 
 
 
