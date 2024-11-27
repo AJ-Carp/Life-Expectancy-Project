@@ -23,7 +23,7 @@ For this project I analyzed a dataset from kaggle that contains information on e
 <img width="1356" alt="Screenshot 2024-11-27 at 6 25 33 PM" src="https://github.com/user-attachments/assets/24c83006-2996-408a-84e9-3fab23aee0ef">
 
 ## Grouping countries by BMI and life span
-<img width="1159" alt="Screenshot 2024-11-27 at 6 37 06 PM" src="https://github.com/user-attachments/assets/00237165-86e8-4bbe-84f2-615d2c460ae5">
+<img width="872" alt="Screenshot 2024-11-27 at 6 40 52 PM" src="https://github.com/user-attachments/assets/7ed79aac-38cc-4892-81ee-3b5b2cad7349">
 
 
 
