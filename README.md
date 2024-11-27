@@ -14,7 +14,7 @@ For this project I analyzed a dataset from kaggle that contains information on e
   <img width="391" alt="Screenshot 2024-11-27 at 5 09 13 PM" src="https://github.com/user-attachments/assets/e523e5b4-f931-4490-95ed-c61c3783576a">
 
   ## Average life expectancy per status
-<img width="661" alt="Screenshot 2024-11-27 at 5 11 07 PM" src="https://github.com/user-attachments/assets/3848c3e4-e2d7-4659-9da6-b557e88cc185">
+<img width="661" alt="Screenshot 2024-11-27 at 5 13 00 PM" src="https://github.com/user-attachments/assets/6e5ba53b-169e-430a-9538-46de377b5a01">
 
  
 
