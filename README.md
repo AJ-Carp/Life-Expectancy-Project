@@ -19,7 +19,6 @@ For this project I analyzed a dataset from kaggle that contains information on e
 <img width="768" alt="Screenshot 2024-11-27 at 6 01 53 PM" src="https://github.com/user-attachments/assets/b772e4db-9bc6-4de8-9244-2c1b70a3fa5f">
 
 
- 
 
 
 
