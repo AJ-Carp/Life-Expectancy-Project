@@ -3,6 +3,7 @@ For this project I analyzed a dataset from kaggle that contains information on e
   [BMI & GDP](https://public.tableau.com/app/profile/anthony.carpinello/viz/LifeExpectancymoreinfo/BMIGDP)
   [Life Span Story](https://public.tableau.com/app/profile/anthony.carpinello/viz/LifeExpectancyStory_17327403306260/Story)
 
-# Hello
-  ## Hello
+  ## Average world life expectancy over the years
+  <img width="1410" alt="Screenshot 2024-11-27 at 4 58 36 PM" src="https://github.com/user-attachments/assets/3f459b69-4e37-4628-8829-43cad461ed7f">
+
 
