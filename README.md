@@ -7,7 +7,7 @@ For this project I analyzed a dataset from kaggle that contains information on e
   <img width="1410" alt="Screenshot 2024-11-27 at 4 58 36 PM" src="https://github.com/user-attachments/assets/3f459b69-4e37-4628-8829-43cad461ed7f">
 
 
-  ## Highest life expectancy in 2022          Lowest life expectancy in 2022
+  ## Highest life expectancy in 2022 - Lowest life expectancy in 2022
   <img width="391" alt="Screenshot 2024-11-27 at 5 07 59 PM" src="https://github.com/user-attachments/assets/4a223937-9dfa-4593-b18e-4d6dd1a7ac7b">  <img width="391" alt="Screenshot 2024-11-27 at 5 09 13 PM" src="https://github.com/user-attachments/assets/e523e5b4-f931-4490-95ed-c61c3783576a">
 
   ## Lowest life expectancy in 2022
