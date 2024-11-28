@@ -29,7 +29,7 @@ For this project I analyzed a dataset from kaggle that contains information on e
 ## Top 5 countries with substantial decreases in life span in one year
 <img width="859" alt="Screenshot 2024-11-28 at 11 55 50 AM" src="https://github.com/user-attachments/assets/af2cfdd0-5e29-43a2-822e-f80a01952c71">
 
-
+<img width="1100" alt="Screenshot 2024-11-28 at 11 57 50 AM" src="https://github.com/user-attachments/assets/ac7344bb-c1aa-4885-844f-20d83cff14bf">
 
 <img width="1420" alt="Screenshot 2024-11-28 at 11 25 28 AM" src="https://github.com/user-attachments/assets/eec13d87-bd9b-46dc-92ea-37c1b24f9f30">
 
