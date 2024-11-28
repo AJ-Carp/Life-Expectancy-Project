@@ -26,6 +26,10 @@ For this project I analyzed a dataset from kaggle that contains information on e
 <img width="872" alt="Screenshot 2024-11-27 at 6 40 52 PM" src="https://github.com/user-attachments/assets/7ed79aac-38cc-4892-81ee-3b5b2cad7349">
 <img width="1366" alt="Screenshot 2024-11-27 at 6 41 54 PM" src="https://github.com/user-attachments/assets/6e01dba4-13a2-4206-8e5f-a065f8affa63">
 
+## Top 5 countries with substantial decreases in life span in one year
+<img width="1420" alt="Screenshot 2024-11-28 at 11 25 28 AM" src="https://github.com/user-attachments/assets/eec13d87-bd9b-46dc-92ea-37c1b24f9f30">
+
+
 # Life Expectancy Story
 
 ## Greatest increases in life span from 2007 to 2022
@@ -44,6 +48,7 @@ For this project I analyzed a dataset from kaggle that contains information on e
 <img width="1410" alt="Screenshot 2024-11-28 at 10 12 44 AM" src="https://github.com/user-attachments/assets/7521dd49-c6a4-4efe-b175-c1bb8dd61413">
 <img width="857" alt="Screenshot 2024-11-28 at 10 29 20 AM" src="https://github.com/user-attachments/assets/fde4d399-0690-4945-9848-8f82b57f939a">
 
+
 ## Average BMI for the countries who life span increased and decreased the most 
 
 <img width="160" alt="Screenshot 2024-11-28 at 10 34 53 AM" src="https://github.com/user-attachments/assets/757183e7-a26c-487c-a43b-882f201fa764">
@@ -54,8 +59,11 @@ For this project I analyzed a dataset from kaggle that contains information on e
 <img width="210" alt="Screenshot 2024-11-28 at 10 38 40 AM" src="https://github.com/user-attachments/assets/7051e9d7-2e99-4210-8c93-0568fe1bd84d">
 <img width="868" alt="Screenshot 2024-11-28 at 10 42 51 AM" src="https://github.com/user-attachments/assets/2d205ca4-f7ad-4c21-89b6-421e5010319a">
 
-
+# summary of story
 As you can see the countries who improved their life span the most actually had lower BMI and higher counts of diseases. This could suggest that the decreases in life expectancy is due to crime and violence rather then health related issues. Also, it is important to note that I did not take population into consideration.
+
+
+
 
 
 
