@@ -27,6 +27,8 @@ For this project I analyzed a dataset from kaggle that contains information on e
 <img width="1366" alt="Screenshot 2024-11-27 at 6 41 54 PM" src="https://github.com/user-attachments/assets/6e01dba4-13a2-4206-8e5f-a065f8affa63">
 
 # Life Expectancy Story
+
+## Greatest increases in life span from 2007 to 2022
 <img width="1233" alt="Screenshot 2024-11-28 at 10 14 36 AM" src="https://github.com/user-attachments/assets/b4fd7cd7-0821-4d25-bf99-735eaf7ade31">
 <img width="618" alt="Screenshot 2024-11-28 at 10 24 10 AM" src="https://github.com/user-attachments/assets/f6bef887-67e4-4adb-832d-a3c0a8f3a605">
 
