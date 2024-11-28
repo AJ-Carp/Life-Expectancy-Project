@@ -34,8 +34,10 @@ For this project I analyzed a dataset from kaggle that contains information on e
 <img width="585" alt="Screenshot 2024-11-28 at 10 26 19 AM" src="https://github.com/user-attachments/assets/b7b834c1-cecb-42c1-8218-a23163ecaac5">
 
 <img width="1047" alt="Screenshot 2024-11-28 at 10 09 16 AM" src="https://github.com/user-attachments/assets/33de27a1-70b1-452a-9812-615ddfb0a083">
+<img width="619" alt="Screenshot 2024-11-28 at 10 27 48 AM" src="https://github.com/user-attachments/assets/5a1f5c75-242b-4e5a-9668-778d60ca1067">
 
 <img width="1410" alt="Screenshot 2024-11-28 at 10 12 44 AM" src="https://github.com/user-attachments/assets/7521dd49-c6a4-4efe-b175-c1bb8dd61413">
+<img width="857" alt="Screenshot 2024-11-28 at 10 29 20 AM" src="https://github.com/user-attachments/assets/fde4d399-0690-4945-9848-8f82b57f939a">
 
 
 
