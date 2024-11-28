@@ -33,7 +33,7 @@ For this project I analyzed a dataset from kaggle that contains information on e
 
 <img width="1047" alt="Screenshot 2024-11-28 at 10 09 16 AM" src="https://github.com/user-attachments/assets/33de27a1-70b1-452a-9812-615ddfb0a083">
 
-<img width="1230" alt="Screenshot 2024-11-28 at 10 11 23 AM" src="https://github.com/user-attachments/assets/5248208b-4622-43b2-a925-31cebe16b48f">
+<img width="1410" alt="Screenshot 2024-11-28 at 10 12 44 AM" src="https://github.com/user-attachments/assets/7521dd49-c6a4-4efe-b175-c1bb8dd61413">
 
 
 
