@@ -49,6 +49,7 @@ Of these countries I found that those who improved their life span the most actu
 
 <img width="160" alt="Screenshot 2024-11-28 at 10 34 53 AM" src="https://github.com/user-attachments/assets/757183e7-a26c-487c-a43b-882f201fa764">
 <img width="855" alt="Screenshot 2024-11-28 at 10 39 30 AM" src="https://github.com/user-attachments/assets/984560f4-30c5-4bad-9bb2-ce0c770b1b89">
+## Average count of deceases for countries who life span increased and decreased the most 
 
 <img width="210" alt="Screenshot 2024-11-28 at 10 38 40 AM" src="https://github.com/user-attachments/assets/7051e9d7-2e99-4210-8c93-0568fe1bd84d">
 <img width="868" alt="Screenshot 2024-11-28 at 10 42 51 AM" src="https://github.com/user-attachments/assets/2d205ca4-f7ad-4c21-89b6-421e5010319a">
