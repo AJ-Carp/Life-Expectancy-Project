@@ -11,7 +11,7 @@ For this project I analyzed a dataset from kaggle that contains information on e
   <img width="1068" alt="Screenshot 2024-11-28 at 10 16 13 AM" src="https://github.com/user-attachments/assets/86c9158e-5cc1-4f84-864b-1f62d3ed6212">
 
   ## Lowest life expectancy in 2022
-<img width="1068" alt="Screenshot 2024-11-28 at 10 16 13 AM" src="https://github.com/user-attachments/assets/6d854a18-70df-46a5-b73d-5e9bf64dee30">
+<img width="1233" alt="Screenshot 2024-11-28 at 10 14 36 AM" src="https://github.com/user-attachments/assets/06e26f73-7935-4ef8-a572-9cda5cdbda3a">
 
   ## Average life expectancy per status
 <img width="661" alt="Screenshot 2024-11-27 at 5 13 28 PM" src="https://github.com/user-attachments/assets/7a5be4d7-14a4-4c91-ad65-7d1641a2bdd8">
