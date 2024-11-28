@@ -44,16 +44,18 @@ For this project I analyzed a dataset from kaggle that contains information on e
 <img width="1410" alt="Screenshot 2024-11-28 at 10 12 44 AM" src="https://github.com/user-attachments/assets/7521dd49-c6a4-4efe-b175-c1bb8dd61413">
 <img width="857" alt="Screenshot 2024-11-28 at 10 29 20 AM" src="https://github.com/user-attachments/assets/fde4d399-0690-4945-9848-8f82b57f939a">
 
-## Average BMI for countries who life span increased and decreased the most 
-Of these countries I found that those who improved their life span the most actually had lower BMI and higher counts of diseases. This could suggest that the decreases in life expectancy is due to crime and violence rather then health related issues. Also, it is important to note that I did not take population into consideration.
+## Average BMI for the countries who life span increased and decreased the most 
 
 <img width="160" alt="Screenshot 2024-11-28 at 10 34 53 AM" src="https://github.com/user-attachments/assets/757183e7-a26c-487c-a43b-882f201fa764">
 <img width="855" alt="Screenshot 2024-11-28 at 10 39 30 AM" src="https://github.com/user-attachments/assets/984560f4-30c5-4bad-9bb2-ce0c770b1b89">
 
-## Average count of diseases for countries who life span increased and decreased the most 
+## Average count of diseases for the countries who life span increased and decreased the most 
 
 <img width="210" alt="Screenshot 2024-11-28 at 10 38 40 AM" src="https://github.com/user-attachments/assets/7051e9d7-2e99-4210-8c93-0568fe1bd84d">
 <img width="868" alt="Screenshot 2024-11-28 at 10 42 51 AM" src="https://github.com/user-attachments/assets/2d205ca4-f7ad-4c21-89b6-421e5010319a">
+
+As you can see the countries who improved their life span the most actually had lower BMI and higher counts of diseases. This could suggest that the decreases in life expectancy is due to crime and violence rather then health related issues. Also, it is important to note that I did not take population into consideration.
+
 
 
 
