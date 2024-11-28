@@ -36,6 +36,7 @@ For this project I analyzed a dataset from kaggle that contains information on e
 <img width="1360" alt="Screenshot 2024-11-28 at 9 47 51 AM" src="https://github.com/user-attachments/assets/3eb707e7-1aa9-446d-a151-cc7205962ab9">
 <img width="585" alt="Screenshot 2024-11-28 at 10 26 19 AM" src="https://github.com/user-attachments/assets/b7b834c1-cecb-42c1-8218-a23163ecaac5">
 
+## Greatest decreases in life span from 2007 to 2022
 <img width="619" alt="Screenshot 2024-11-28 at 10 27 48 AM" src="https://github.com/user-attachments/assets/5a1f5c75-242b-4e5a-9668-778d60ca1067">
 
 <img width="1410" alt="Screenshot 2024-11-28 at 10 12 44 AM" src="https://github.com/user-attachments/assets/7521dd49-c6a4-4efe-b175-c1bb8dd61413">
