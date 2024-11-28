@@ -27,6 +27,10 @@ For this project I analyzed a dataset from kaggle that contains information on e
 <img width="1366" alt="Screenshot 2024-11-27 at 6 41 54 PM" src="https://github.com/user-attachments/assets/6e01dba4-13a2-4206-8e5f-a065f8affa63">
 
 ## Top 5 countries with substantial decreases in life span in one year
+<img width="859" alt="Screenshot 2024-11-28 at 11 55 50 AM" src="https://github.com/user-attachments/assets/af2cfdd0-5e29-43a2-822e-f80a01952c71">
+
+
+
 <img width="1420" alt="Screenshot 2024-11-28 at 11 25 28 AM" src="https://github.com/user-attachments/assets/eec13d87-bd9b-46dc-92ea-37c1b24f9f30">
 
 <img width="1032" alt="Screenshot 2024-11-28 at 11 29 05 AM" src="https://github.com/user-attachments/assets/d108cf55-6d85-4011-a247-825691390607">
