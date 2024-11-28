@@ -54,6 +54,7 @@ For this project I analyzed a dataset from kaggle that contains information on e
 <img width="210" alt="Screenshot 2024-11-28 at 10 38 40 AM" src="https://github.com/user-attachments/assets/7051e9d7-2e99-4210-8c93-0568fe1bd84d">
 <img width="868" alt="Screenshot 2024-11-28 at 10 42 51 AM" src="https://github.com/user-attachments/assets/2d205ca4-f7ad-4c21-89b6-421e5010319a">
 
+
 As you can see the countries who improved their life span the most actually had lower BMI and higher counts of diseases. This could suggest that the decreases in life expectancy is due to crime and violence rather then health related issues. Also, it is important to note that I did not take population into consideration.
 
 
