@@ -1,8 +1,8 @@
-# Life Expectancy General Information
+# Life Expectancy Project
 For this project I analyzed a dataset from kaggle that contains information related to life expectancy for every country. I first cleaned and explored the data with SQL, answering more general questions and then dug deeper to find reasoning and more nuanced information. Finally, I made visualizations with Tableau: [General Info](https://public.tableau.com/app/profile/anthony.carpinello/viz/LifeExpectancy_17327397021130/GeneralInfo) 
   [BMI & GDP](https://public.tableau.com/app/profile/anthony.carpinello/viz/LifeExpectancymoreinfo/BMIGDP)
   [Life Span Story](https://public.tableau.com/app/profile/anthony.carpinello/viz/LifeExpectancyStory_17327403306260/Story)
-
+# Life Expectancy General Information 
   ## Average world life expectancy over the years
   <img width="1410" alt="Screenshot 2024-11-27 at 4 58 36 PM" src="https://github.com/user-attachments/assets/3f459b69-4e37-4628-8829-43cad461ed7f">
 
