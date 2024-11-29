@@ -4,9 +4,9 @@ For this project I analyzed a dataset from kaggle that contains information rela
   [Life Span Story](https://public.tableau.com/app/profile/anthony.carpinello/viz/LifeExpectancyStory_17327403306260/Story)
   
   SQL files:
-  - Exploratory data analysis
-  - Removing duplicates
-  - Filling blanks
+  - [Exploratory data analysis](https://github.com/AJ-Carp/Life-Expectancy-/blob/main/EDA.sql)
+  - [Removing duplicates](https://github.com/AJ-Carp/Life-Expectancy-/blob/main/removing_dupes.sql)
+  - [Filling blanks](https://github.com/AJ-Carp/Life-Expectancy-/blob/main/filling_blanks.sql)
 ## Life Expectancy General Information 
   ### Average world life expectancy over the years
   <img width="1410" alt="Screenshot 2024-11-27 at 4 58 36 PM" src="https://github.com/user-attachments/assets/3f459b69-4e37-4628-8829-43cad461ed7f">
