@@ -50,7 +50,7 @@ For this project I analyzed a dataset from kaggle that contains information rela
 <img width="1065" alt="Screenshot 2024-11-28 at 11 03 16 AM" src="https://github.com/user-attachments/assets/a56931e6-b830-4020-9b96-2cd41475f202">
 <img width="619" alt="Screenshot 2024-11-28 at 10 27 48 AM" src="https://github.com/user-attachments/assets/5a1f5c75-242b-4e5a-9668-778d60ca1067">
 
-
+##
 <img width="1410" alt="Screenshot 2024-11-28 at 10 12 44 AM" src="https://github.com/user-attachments/assets/7521dd49-c6a4-4efe-b175-c1bb8dd61413">
 <img width="857" alt="Screenshot 2024-11-28 at 10 29 20 AM" src="https://github.com/user-attachments/assets/fde4d399-0690-4945-9848-8f82b57f939a">
 
