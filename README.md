@@ -41,16 +41,12 @@ For this project I analyzed a dataset from kaggle that contains information rela
 ### Greatest increases in life span from 2007 to 2022
 <img width="1233" alt="Screenshot 2024-11-28 at 10 14 36 AM" src="https://github.com/user-attachments/assets/b4fd7cd7-0821-4d25-bf99-735eaf7ade31">
 <img width="618" alt="Screenshot 2024-11-28 at 10 24 10 AM" src="https://github.com/user-attachments/assets/f6bef887-67e4-4adb-832d-a3c0a8f3a605">
-
-### Countries that improved their life expectancy the most  
 <img width="1360" alt="Screenshot 2024-11-28 at 9 47 51 AM" src="https://github.com/user-attachments/assets/3eb707e7-1aa9-446d-a151-cc7205962ab9">
 <img width="585" alt="Screenshot 2024-11-28 at 10 26 19 AM" src="https://github.com/user-attachments/assets/b7b834c1-cecb-42c1-8218-a23163ecaac5">
 
 ### Greatest decreases in life span from 2007 to 2022
 <img width="1065" alt="Screenshot 2024-11-28 at 11 03 16 AM" src="https://github.com/user-attachments/assets/a56931e6-b830-4020-9b96-2cd41475f202">
-
 <img width="619" alt="Screenshot 2024-11-28 at 10 27 48 AM" src="https://github.com/user-attachments/assets/5a1f5c75-242b-4e5a-9668-778d60ca1067">
-
 <img width="1410" alt="Screenshot 2024-11-28 at 10 12 44 AM" src="https://github.com/user-attachments/assets/7521dd49-c6a4-4efe-b175-c1bb8dd61413">
 <img width="857" alt="Screenshot 2024-11-28 at 10 29 20 AM" src="https://github.com/user-attachments/assets/fde4d399-0690-4945-9848-8f82b57f939a">
 
