@@ -73,7 +73,13 @@ For this project I analyzed a dataset from kaggle that contains information rela
 ### Story conclusion
 As you can see the countries who improved their life span the most actually had lower BMI and higher counts of diseases. This could suggest that the decreases in life expectancy is due to crime and violence rather then health related issues. Unfortunately there was no population column, so that was not taken into consideration.
 
-Click [here](https://public.tableau.com/app/profile/anthony.carpinello/viz/LifeExpectancyStory_17327403306260/Story) to check out the story on Tableau Public!!
+Make sure to click [here](https://public.tableau.com/app/profile/anthony.carpinello/viz/LifeExpectancyStory_17327403306260/Story) to check out the story on Tableau Public!!
+Interactive Dashboards:
+[General Info](https://public.tableau.com/app/profile/anthony.carpinello/viz/LifeExpectancy_17327397021130/GeneralInfo) 
+  [BMI & GDP](https://public.tableau.com/app/profile/anthony.carpinello/viz/LifeExpectancymoreinfo/BMIGDP)
+
+
+
 
 
 
